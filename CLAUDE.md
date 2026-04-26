@@ -31,7 +31,7 @@ Se Fabiana Furtado é diretor da Aria Systems, recomenda-se clonar os 3 cérebro
 Ao abrir **qualquer uma** dessas 3 pastas no Claude Code/Cowork, a ferramenta deve:
 
 1. Ler este `CLAUDE.md` (deste cérebro pessoal)
-2. Se existirem `../ariasystems-second-brain/CLAUDE.md` e `../ariasystems-diretoria/CLAUDE.md`, também carregar esses
+2. Se existirem `../ariasystems-second-brain-time/CLAUDE.md` e `../ariasystems-second-brain-diretoria/CLAUDE.md`, também carregar esses
 3. Manter os 3 contextos ativos durante a sessão
 
 Se só este cérebro estiver acessível (ex: sessão no celular, ou em ambiente restrito), operar só localmente sem problema.

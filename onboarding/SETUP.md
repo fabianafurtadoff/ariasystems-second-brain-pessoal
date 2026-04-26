@@ -22,7 +22,7 @@
 1. Acesse `github.com/pixel-educacao/template-second-brain-pessoal`.
 2. **"Use this template" → "Create a new repository"**.
 3. Owner: **sua conta pessoal** (não a Org da empresa — este cérebro é seu).
-4. Nome sugerido: `ariasystems-aria` (ex: `acme-amora`).
+4. Nome sugerido: `ariasystems-second-brain-pessoal` (ex: `acme-amora`).
 5. Visibilidade: **Private**.
 
 ## Fase 2 — Clonar local
@@ -32,11 +32,11 @@ Recomenda-se clonar junto aos outros 2 cérebros (se você for diretor e tiver a
 ```bash
 mkdir -p ~/brains
 cd ~/brains
-git clone git@github.com:{{SUA_CONTA}}/ariasystems-aria.git
+git clone git@github.com:{{SUA_CONTA}}/ariasystems-second-brain-pessoal.git
 # se diretor, clone também:
-# git clone git@github.com:{{ORG}}/ariasystems-second-brain.git
-# git clone git@github.com:{{ORG}}/ariasystems-diretoria.git
-cd ariasystems-aria
+# git clone git@github.com:{{ORG}}/ariasystems-second-brain-time.git
+# git clone git@github.com:{{ORG}}/ariasystems-second-brain-diretoria.git
+cd ariasystems-second-brain-pessoal
 ```
 
 ## Fase 3 — Inicializar

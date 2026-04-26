@@ -20,8 +20,8 @@
 
 ## Outros cérebros que Fabiana Furtado acessa
 
-- `ariasystems-second-brain` (time, gerenciado por Sansa)
-- `ariasystems-diretoria` (diretoria, gerenciado por Brian)
+- `ariasystems-second-brain-time` (time, gerenciado por Sansa)
+- `ariasystems-second-brain-diretoria` (diretoria, gerenciado por Brian)
 
 ---
 

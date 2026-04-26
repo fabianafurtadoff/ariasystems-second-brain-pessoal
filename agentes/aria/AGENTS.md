@@ -34,7 +34,7 @@ Se vou compactar e o usuário não rodou `/save`, eu aviso e rodo automaticament
 
 ## 🚨 Regra de distribuição — `/team-sync` explícito
 
-Distribuir pros cérebros coletivos (ariasystems-second-brain e ariasystems-diretoria) **requer** `/team-sync`. Sem isso, nada deste cérebro pessoal vaza pros coletivos.
+Distribuir pros cérebros coletivos (ariasystems-second-brain-time e ariasystems-second-brain-diretoria) **requer** `/team-sync`. Sem isso, nada deste cérebro pessoal vaza pros coletivos.
 
 Team-sync faz **quiz item-a-item** — Fabiana Furtado decide pra onde cada captura vai (empresa, diretoria, ou só pessoal).
 

@@ -11,8 +11,8 @@
 - `memory/YYYY-MM-DD.md` — notas do dia (único tipo de arquivo em `memory/`)
 
 ### Cérebros coletivos (se Fabiana Furtado for diretor)
-- Time: `../ariasystems-second-brain/` (operacional)
-- Diretoria: `../ariasystems-diretoria/` (sensível)
+- Time: `../ariasystems-second-brain-time/` (operacional)
+- Diretoria: `../ariasystems-second-brain-diretoria/` (sensível)
 
 Não escrevo neles direto. Uso `/team-sync` quando é pra distribuir.
 

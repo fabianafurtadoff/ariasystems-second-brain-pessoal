@@ -14,8 +14,8 @@ Se você é diretor da Aria Systems, tem acesso a 3 cérebros simultâneos:
 
 | cérebro | propósito | branches | captura |
 |---|---|---|---|
-| `ariasystems-second-brain` | operacional do time (coletivo) | staging + main | via `/save` + `/team-sync` |
-| `ariasystems-diretoria` | sensível da diretoria (coletivo) | staging + main (PR sempre) | via `/save` + `/team-sync` |
+| `ariasystems-second-brain-time` | operacional do time (coletivo) | staging + main | via `/save` + `/team-sync` |
+| `ariasystems-second-brain-diretoria` | sensível da diretoria (coletivo) | staging + main (PR sempre) | via `/save` + `/team-sync` |
 | **este** (pessoal) | só de Fabiana Furtado | só main | via `/save` (direto) + daily notes do agente |
 
 ## Estrutura

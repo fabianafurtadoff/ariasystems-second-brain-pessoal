@@ -19,9 +19,9 @@ Os 2 cérebros coletivos devem estar clonados **lado a lado** deste:
 
 ```
 ~/brains/
-├── ariasystems-second-brain/
-├── ariasystems-diretoria/
-└── ariasystems-aria/    ← estou aqui
+├── ariasystems-second-brain-time/
+├── ariasystems-second-brain-diretoria/
+└── ariasystems-second-brain-pessoal/    ← estou aqui
 ```
 
 Se algum dos 2 não existir ou não estiver no path esperado, a skill pergunta onde está (ou aborta se o diretor não tem acesso).
@@ -99,7 +99,7 @@ Se sugerir, preenche `destino_sugerido` no sidecar.
 Pra cada cérebro-destino que recebeu capturas:
 
 ```bash
-cd ../ariasystems-second-brain  # ou -diretoria
+cd ../ariasystems-second-brain-time  # ou -diretoria
 git fetch origin
 git checkout staging
 git pull --rebase origin staging

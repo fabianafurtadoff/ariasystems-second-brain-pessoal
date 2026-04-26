@@ -35,9 +35,9 @@ Quando você é diretor, você opera **3 cérebros em paralelo:**
 
 ```
 ~/brains/
-├── ariasystems-second-brain/        ← cérebro do time (clonado do template-empresa)
-├── ariasystems-diretoria/           ← cérebro da diretoria (clonado do template-diretoria)
-└── ariasystems-aria/     ← este cérebro pessoal
+├── ariasystems-second-brain-time/        ← cérebro do time (clonado do template-empresa)
+├── ariasystems-second-brain-diretoria/           ← cérebro da diretoria (clonado do template-diretoria)
+└── ariasystems-second-brain-pessoal/     ← este cérebro pessoal
 ```
 
 Ao abrir o Claude Code/Cowork neste cérebro pessoal, o `CLAUDE.md` instrui a ferramenta a **carregar também** os outros 2 cérebros paralelos (lê `CLAUDE.md` + `MAPA.md` de cada). Contexto completo numa sessão só.

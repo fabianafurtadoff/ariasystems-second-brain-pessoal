@@ -13,10 +13,10 @@ Scheduled Task ou cron:
 
 ```cron
 # a cada 15 min: save automático + pull/push do cérebro pessoal
-*/15 * * * * cd ~/brains/ariasystems-aria && /path/to/autosave-and-sync.sh
+*/15 * * * * cd ~/brains/ariasystems-second-brain-pessoal && /path/to/autosave-and-sync.sh
 
 # 1x/dia às 09:00: team-sync com quiz (se houver coisa nova)
-0 12 * * * cd ~/brains/ariasystems-aria && /path/to/team-sync.sh --interactive
+0 12 * * * cd ~/brains/ariasystems-second-brain-pessoal && /path/to/team-sync.sh --interactive
 ```
 
 ## No laptop (sem VPS)
